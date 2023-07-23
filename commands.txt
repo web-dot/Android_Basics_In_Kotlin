@@ -1,0 +1,8 @@
+cd to folder
+
+compile:
+kotlinc YourKotlinFile.kt -include-runtime -d YourKotlinFile.jar
+
+run:
+java -jar YourKotlinFile.jar
+
